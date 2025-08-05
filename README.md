@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pulakita123
+- 👋 Hi, I’m Pulakita
 - 👀 I’m interested in increasing my potential and making myself better 
-- 🌱 I’m currently learning java and i am a second year CSE student.
+- 🌱 I’m an apiring data analyst and i am a final year CSE student.
 - 📫 How to reach me ...pulakitachaudhuri@gmail.com
 
 <!---
