@@ -1,42 +1,124 @@
 # Hi, I'm Pulakita Chaudhuri 👋
 
-**Aspiring Data & Business Analyst | 2026(recent) CSE graduate**
+### Data Analyst | Business Analyst | Computer Science Graduate
 
-I turn raw data into actionable business insights, interactive dashboards, and structured analytical solutions. Passionate about uncovering revenue opportunities, optimizing business workflows, and bridging the gap between technical data modeling and executive decision-making.
+I use data and structured problem-solving to understand business performance, identify opportunities, and communicate practical recommendations.
 
-[![Email](https://img.shields.io/badge/Email-pulakitachaudhuri%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulakitachaudhuri@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pulakita-chaudhuri-a9812b257/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-2EA44F?style=for-the-badge&logo=vercel&logoColor=white)](https://pulakitaanalytics-portfo-6279.ai.studio/)
+My work combines **SQL, Python, Excel and Power BI** with business analysis practices such as requirement documentation, process analysis, KPI definition and workflow modelling. I enjoy taking a problem from its business context through data preparation and analysis to a clear, decision-focused outcome.
 
----
+**B.E. Computer Science & Engineering** · Chandigarh University · 2022–2026
 
-### 🛠️ Tech Stack & Core Competencies
-
-* **Data Analysis & Querying:** SQL, Python (Pandas, NumPy), Excel (Advanced Formulas, Pivot Tables)
-* **BI & Data Visualization:** Power BI (DAX, Power Query, Data Modeling), Interactive Reporting
-* **Business Analysis:** Requirement Gathering, KPI Definition, Process Mapping, E-Commerce & Profitability Analysis
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pulakitachaudhuri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pulakita-chaudhuri-a9812b257/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-2EA44F?style=flat-square&logo=vercel&logoColor=white)](https://pulakitaanalytics-portfo-6279.ai.studio/)
 
 ---
 
-### 📌 Featured Analytics & Business Projects
+## What I work with
 
-#### 1. [E-Commerce Profitability & Sales Analysis](https://github.com/pulakita123/ECommerce-Profitability-Sales-Analysis)
-* **Tools:** `Power BI` `DAX` `Power Query` `Data Modeling`
-* **Impact:** Built an executive-ready interactive dashboard to track sales performance, evaluate core KPIs, and pinpoint profit leakage across product categories.
+| Area | Tools and skills |
+|---|---|
+| Data analysis | SQL, Python, Pandas, NumPy |
+| Reporting and BI | Power BI, DAX, Power Query, Excel, PivotTables |
+| Data analysis workflow | Data cleaning, validation, exploratory analysis, KPI tracking, data modelling |
+| Business analysis | Requirement gathering, BRD/SRS-style documentation, user stories, process mapping, gap analysis, UAT concepts |
+| Communication | Analytical reporting, documenting findings, presenting recommendations |
 
-#### 2. [Pizza Sales SQL Data Analytics](https://github.com/pulakita123/Pizza-SQL-Data-Analytics)
-* **Tools:** `SQL` `Data Exploration` `KPI Reporting`
-* **Impact:** Analyzed transactional sales data to uncover peak ordering hours, top-performing menu items, and seasonal revenue trends to guide inventory and marketing decisions.
+## Selected projects
 
-#### 3. [E-Commerce Order Management System](https://github.com/pulakita123/Ecommerce-Order-Management)
-* **Tools:** `Business Analysis` `System Design` `Workflow Modeling`
-* **Impact:** Executed an end-to-end Business Analyst lifecycle for a web-based checkout and order management platform, translating business requirements into structured system specifications.
+These projects demonstrate how I approach business questions, analyse information and turn the results into useful outputs.
 
-#### 4. [Digital Content Evolution & Analytics](https://github.com/pulakita123/Content_Analytics)
-* **Tools:** `Structured Data Analysis` `Interactive Reporting`
-* **Impact:** Evaluated long-term content library growth and engagement patterns, replacing assumption-based planning with data-backed reporting.
+### 1. E-Commerce Profitability & Sales Analysis
+[**View repository →**](https://github.com/pulakita123/ECommerce-Profitability-Sales-Analysis)
+
+**Business question:** Sales are growing, but where is profit being lost?
+
+- Analysed 500 orders with approximately **₹4.38 lakh in sales**.
+- Identified **169 loss-making orders** and approximately **₹26.12K in order-level profit leakage**.
+- Built Power BI measures and dashboards to examine sales, margins, product performance and regional patterns.
+
+**Tools:** Power BI · DAX · Power Query · Data Modelling
+
+### 2. Pizza Sales — SQL Data Analytics
+[**View repository →**](https://github.com/pulakita123/Pizza-SQL-Data-Analytics)
+
+**Business question:** What drives sales across products, order patterns and time?
+
+- Used SQL to explore transactional sales data and answer business-focused questions.
+- Examined revenue, order volume, average order value, product performance and ordering patterns.
+- Translated query results into observations that can inform menu, inventory and promotional decisions.
+
+**Tools:** MySQL · SQL · Joins · Aggregations · Window Functions · Power BI
+
+### 3. Customer Analytics
+[**View repository →**](https://github.com/pulakita123/Customer-Analytics)
+
+**Business question:** What does the customer base look like, and how does it vary across geography, company and subscription year?
+
+- Worked with original and cleaned customer datasets in an Excel-based analysis.
+- Explored customer distribution, subscription patterns and tenure.
+- Organised the analysis into dashboard views to make customer segments and patterns easier to examine.
+
+**Tools:** Excel · Data Cleaning · PivotTables · Dashboarding
+
+### 4. E-Commerce Cohort Retention & Churn Analysis
+[**View repository →**](https://github.com/pulakita123/ecommerce-cohort-churn-analysis)
+
+**Business question:** How does customer activity change after the first purchase, and which customers may need retention attention?
+
+- Explored cohort-based customer activity and retention patterns.
+- Examined a 90-day inactivity proxy and built an initial churn-classification workflow.
+- Documented an important modelling limitation: features calculated over the same period as the churn label can cause data leakage. The initial model is therefore exploratory, not a validated future-churn predictor.
+
+**Tools:** Python · Pandas · Cohort Analysis · Customer Retention · Scikit-learn
+
+### 5. E-Commerce Order Management — Business Analysis
+[**View repository →**](https://github.com/pulakita123/Ecommerce-Order-Management)
+
+**Business question:** How can an online ordering journey be translated into clear, testable business and system requirements?
+
+- Structured an end-to-end case study covering customer registration, product browsing, cart and checkout, order tracking, returns and administration.
+- Documented business needs, process flows, requirements traceability, KPIs and user acceptance testing considerations.
+- Connected stakeholder needs with functional scope and expected system behaviour.
+
+**Tools:** Business Analysis · Requirements Documentation · Process Mapping · User Stories · UAT
+
+### 6. Digital Content Evolution & Analytics
+[**View repository →**](https://github.com/pulakita123/Content_Analytics)
+
+**Business question:** How has a digital content library changed over time, and what patterns can support content planning?
+
+- Explored content growth across release periods, formats, genres and countries.
+- Examined the changing balance between movies and series and the geographic spread of content.
+- Organised the work around a structured data model and dashboard-led reporting.
+
+**Tools:** Power BI · Data Modelling · Data Analysis · Dashboarding
 
 ---
 
-### 📫 Let's Connect
-I am actively looking for **Data Analyst**, **Business Analyst**, and **BI Developer** internships or full-time entry-level roles. Feel free to reach out via [pulakitachaudhuri@gmail.com](mailto:pulakitachaudhuri@gmail.com)!
+## How I approach an analysis
+
+1. **Understand the problem** — clarify the business context, stakeholder needs and decisions to be supported.
+2. **Inspect the data** — understand its structure, grain, definitions, quality and limitations.
+3. **Prepare and validate** — clean records, check assumptions and make transformations reproducible.
+4. **Analyse** — use SQL, Python or Excel to investigate patterns and calculate relevant KPIs.
+5. **Communicate** — present findings with context, explain limitations and recommend realistic next steps.
+
+## Currently focused on
+
+- Strengthening SQL for analytical problem-solving, including CTEs and window functions.
+- Building deeper Python and Pandas skills for end-to-end analysis.
+- Improving dashboard design, data modelling and business-focused storytelling.
+- Developing practical Business Analyst documentation and stakeholder-oriented thinking.
+
+## Let's connect
+
+I am interested in **entry-level Data Analyst and Business Analyst opportunities** where I can contribute analytical thinking, structured problem-solving and a willingness to learn.
+
+- Email: [pulakitachaudhuri@gmail.com](mailto:pulakitachaudhuri@gmail.com)
+- LinkedIn: [Pulakita Chaudhuri](https://www.linkedin.com/in/pulakita-chaudhuri-a9812b257/)
+- Portfolio: [Explore my work](https://pulakitaanalytics-portfo-6279.ai.studio/)
+
+---
+
+*I aim to make each project more than a collection of queries or charts: it should explain the problem, show the analytical process, make the findings understandable and acknowledge what the data cannot prove.*
