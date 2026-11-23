@@ -28,8 +28,8 @@ My work combines **SQL, Python, Excel and Power BI** with business analysis prac
 
 These projects demonstrate how I approach business questions, analyse information and turn the results into useful outputs.
 
-### 1. E-Commerce Cohort Retention & Churn Analysis
-[**View repository →**](https://github.com/pulakita123/ecommerce-cohort-churn-analysis)
+### 1. Beyond the Purchase: Cohort Retention & Churn Analysis
+[**View repository →**](https://github.com/pulakita123/retail-cohort-retention-and-churn)
 
 **Business question:** How does customer activity change after the first purchase, and which customers may need retention attention?
 
@@ -39,8 +39,8 @@ These projects demonstrate how I approach business questions, analyse informatio
 
 **Tools:** Python · Pandas · Cohort Analysis · Customer Retention · Scikit-learn
 
-### 2. Pizza Sales — SQL Data Analytics
-[**View repository →**](https://github.com/pulakita123/Pizza-SQL-Data-Analytics)
+### 2. Food Chain Demand Intelligence — SQL & Power BI
+[**View repository →**](https://github.com/pulakita123/food-chain-demand-intelligence)
 
 **Business question:** What drives sales across products, order patterns and time?
 
@@ -50,8 +50,8 @@ These projects demonstrate how I approach business questions, analyse informatio
 
 **Tools:** MySQL · SQL · Joins · Aggregations · Window Functions · Power BI
 
-### 3. E-Commerce Profitability & Sales Analysis
-[**View repository →**](https://github.com/pulakita123/ECommerce-Profitability-Sales-Analysis)
+### 3. Profitability Under the Lens: Sales & Margin Analysis
+[**View repository →**](https://github.com/pulakita123/sales-profitability-margin-analysis)
 
 **Business question:** Sales are growing, but where is profit being lost?
 
@@ -61,8 +61,8 @@ These projects demonstrate how I approach business questions, analyse informatio
 
 **Tools:** Power BI · DAX · Power Query · Data Modelling
 
-### 4. Customer Analytics
-[**View repository →**](https://github.com/pulakita123/Customer-Analytics)
+### 4. CustomerAtlas: Customer Base & Geographic Insights
+[**View repository →**](https://github.com/pulakita123/customeratlas-base-and-geographic-insights)
 
 **Business question:** What does the customer base look like, and how does it vary across geography, company and subscription year?
 
@@ -72,8 +72,8 @@ These projects demonstrate how I approach business questions, analyse informatio
 
 **Tools:** Excel · Data Cleaning · PivotTables · Dashboarding
 
-### 5. E-Commerce Order Management — Business Analysis
-[**View repository →**](https://github.com/pulakita123/Ecommerce-Order-Management)
+### 5. OrderFlow: E-Commerce Operations & Process Design
+[**View repository →**](https://github.com/pulakita123/orderflow-ecommerce-process-design)
 
 **Business question:** How can an online ordering journey be translated into clear, testable business and system requirements?
 
@@ -83,8 +83,8 @@ These projects demonstrate how I approach business questions, analyse informatio
 
 **Tools:** Business Analysis · Requirements Documentation · Process Mapping · User Stories · UAT
 
-### 6. Digital Content Evolution & Analytics
-[**View repository →**](https://github.com/pulakita123/Content_Analytics)
+### 6. ContentScope: Digital Library & Catalogue Insights
+[**View repository →**](https://github.com/pulakita123/contentscope-digital-library-insights)
 
 **Business question:** How has a digital content library changed over time, and what patterns can support content planning?
 
