@@ -50,6 +50,17 @@ These projects demonstrate how I approach business questions, analyse informatio
 
 **Tools:** MySQL · SQL · Joins · Aggregations · Window Functions · Power BI
 
+### 3. E-Commerce Cohort Retention & Churn Analysis
+[**View repository →**](https://github.com/pulakita123/ecommerce-cohort-churn-analysis)
+
+**Business question:** How does customer activity change after the first purchase, and which customers may need retention attention?
+
+- Explored cohort-based customer activity and retention patterns.
+- Examined a 90-day inactivity proxy and built an initial churn-classification workflow.
+- Documented an important modelling limitation: features calculated over the same period as the churn label can cause data leakage. The initial model is therefore exploratory, not a validated future-churn predictor.
+
+**Tools:** Python · Pandas · Cohort Analysis · Customer Retention · Scikit-learn
+
 ### 3. Customer Analytics
 [**View repository →**](https://github.com/pulakita123/Customer-Analytics)
 
@@ -60,17 +71,6 @@ These projects demonstrate how I approach business questions, analyse informatio
 - Organised the analysis into dashboard views to make customer segments and patterns easier to examine.
 
 **Tools:** Excel · Data Cleaning · PivotTables · Dashboarding
-
-### 4. E-Commerce Cohort Retention & Churn Analysis
-[**View repository →**](https://github.com/pulakita123/ecommerce-cohort-churn-analysis)
-
-**Business question:** How does customer activity change after the first purchase, and which customers may need retention attention?
-
-- Explored cohort-based customer activity and retention patterns.
-- Examined a 90-day inactivity proxy and built an initial churn-classification workflow.
-- Documented an important modelling limitation: features calculated over the same period as the churn label can cause data leakage. The initial model is therefore exploratory, not a validated future-churn predictor.
-
-**Tools:** Python · Pandas · Cohort Analysis · Customer Retention · Scikit-learn
 
 ### 5. E-Commerce Order Management — Business Analysis
 [**View repository →**](https://github.com/pulakita123/Ecommerce-Order-Management)
