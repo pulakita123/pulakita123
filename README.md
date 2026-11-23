@@ -42,13 +42,13 @@ These projects demonstrate how I approach business questions, analyse informatio
 ### 2. Food Chain Demand Intelligence — SQL & Power BI
 [**View repository →**](https://github.com/pulakita123/food-chain-demand-intelligence)
 
-**Business question:** What drives sales across products, order patterns and time?
+**Business question:** When does restaurant demand peak, which products drive orders and revenue, and how can those patterns inform day-to-day planning?
 
 - Used SQL to explore transactional sales data and answer business-focused questions.
 - Examined revenue, order volume, average order value, product performance and ordering patterns.
 - Translated query results into observations that can inform menu, inventory and promotional decisions.
 
-**Tools:** MySQL · SQL · Joins · Aggregations · Window Functions · Power BI
+**Tools:** MySQL · SQL · Joins · Aggregations · CTEs · Window Functions · Power BI
 
 ### 3. Profitability Under the Lens: Sales & Margin Analysis
 [**View repository →**](https://github.com/pulakita123/sales-profitability-margin-analysis)
