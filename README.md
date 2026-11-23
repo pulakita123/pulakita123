@@ -1,6 +1,6 @@
 # Hi, I'm Pulakita Chaudhuri 👋
 
-**Aspiring Data & Business Analyst | Final Year CSE Student**
+**Aspiring Data & Business Analyst | 2026(recent CSE graduate)**
 
 I turn raw data into actionable business insights, interactive dashboards, and structured analytical solutions. Passionate about uncovering revenue opportunities, optimizing business workflows, and bridging the gap between technical data modeling and executive decision-making.
 
