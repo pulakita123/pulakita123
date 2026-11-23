@@ -28,16 +28,16 @@ My work combines **SQL, Python, Excel and Power BI** with business analysis prac
 
 These projects demonstrate how I approach business questions, analyse information and turn the results into useful outputs.
 
-### 1. E-Commerce Profitability & Sales Analysis
-[**View repository →**](https://github.com/pulakita123/ECommerce-Profitability-Sales-Analysis)
+### 1. E-Commerce Cohort Retention & Churn Analysis
+[**View repository →**](https://github.com/pulakita123/ecommerce-cohort-churn-analysis)
 
-**Business question:** Sales are growing, but where is profit being lost?
+**Business question:** How does customer activity change after the first purchase, and which customers may need retention attention?
 
-- Analysed 500 orders with approximately **₹4.38 lakh in sales**.
-- Identified **169 loss-making orders** and approximately **₹26.12K in order-level profit leakage**.
-- Built Power BI measures and dashboards to examine sales, margins, product performance and regional patterns.
+- Explored cohort-based customer activity and retention patterns.
+- Examined a 90-day inactivity proxy and built an initial churn-classification workflow.
+- Documented an important modelling limitation: features calculated over the same period as the churn label can cause data leakage. The initial model is therefore exploratory, not a validated future-churn predictor.
 
-**Tools:** Power BI · DAX · Power Query · Data Modelling
+**Tools:** Python · Pandas · Cohort Analysis · Customer Retention · Scikit-learn
 
 ### 2. Pizza Sales — SQL Data Analytics
 [**View repository →**](https://github.com/pulakita123/Pizza-SQL-Data-Analytics)
@@ -50,18 +50,18 @@ These projects demonstrate how I approach business questions, analyse informatio
 
 **Tools:** MySQL · SQL · Joins · Aggregations · Window Functions · Power BI
 
-### 3. E-Commerce Cohort Retention & Churn Analysis
-[**View repository →**](https://github.com/pulakita123/ecommerce-cohort-churn-analysis)
+### 3. E-Commerce Profitability & Sales Analysis
+[**View repository →**](https://github.com/pulakita123/ECommerce-Profitability-Sales-Analysis)
 
-**Business question:** How does customer activity change after the first purchase, and which customers may need retention attention?
+**Business question:** Sales are growing, but where is profit being lost?
 
-- Explored cohort-based customer activity and retention patterns.
-- Examined a 90-day inactivity proxy and built an initial churn-classification workflow.
-- Documented an important modelling limitation: features calculated over the same period as the churn label can cause data leakage. The initial model is therefore exploratory, not a validated future-churn predictor.
+- Analysed 500 orders with approximately **₹4.38 lakh in sales**.
+- Identified **169 loss-making orders** and approximately **₹26.12K in order-level profit leakage**.
+- Built Power BI measures and dashboards to examine sales, margins, product performance and regional patterns.
 
-**Tools:** Python · Pandas · Cohort Analysis · Customer Retention · Scikit-learn
+**Tools:** Power BI · DAX · Power Query · Data Modelling
 
-### 3. Customer Analytics
+### 4. Customer Analytics
 [**View repository →**](https://github.com/pulakita123/Customer-Analytics)
 
 **Business question:** What does the customer base look like, and how does it vary across geography, company and subscription year?
